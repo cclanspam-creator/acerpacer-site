@@ -5,7 +5,7 @@ topics: ["Leadership", "Purpose"]
 origin: "First published on adriansays.com"
 ---
 
-![Lit Lamp](https://adriansays.com/wp-content/uploads/2020/06/pexels-photo-2233399.jpeg)
+![Lit Lamp](/wp-content/uploads/2020/06/pexels-photo-2233399.jpeg)
 
 Photo by Ahmed Aqtai on [Pexels.com](https://www.pexels.com/photo/turned-on-night-lamp-2233399/)
 

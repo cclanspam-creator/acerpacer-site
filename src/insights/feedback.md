@@ -5,7 +5,7 @@ topics: ["Feedback", "Reflection & Journaling"]
 origin: "First published on adriansays.com"
 ---
 
-![Feedback is Listening](http://adriansays.com/wp-content/uploads/2018/07/IMG_4975-1024x683.jpg) Learning to listen well is essential to any feedback culture
+![Feedback is Listening](/wp-content/uploads/2018/07/IMG_4975-1024x683.jpg) Learning to listen well is essential to any feedback culture
 
 # Feedback is a Many-Splendoured Thing
 
@@ -36,13 +36,13 @@ Feedback, whether positive or negative, always dislodges one’s sense of peace.
 
 Another reason why feedback is a shock to receive is because of the difference in preparation between giver and receiver. Whereas the giver has likely agonised over the message, for the recipient, it is the first time he/she is hearing it. No wonder any feedback comes as a surprise or a shock!
 
-![feedback is a shock](http://adriansays.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-11.42.08-PM-1024x672.png) A Food Court Encounter
+![feedback is a shock](/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-11.42.08-PM-1024x672.png) A Food Court Encounter
 
 ## Clear Your Feedback Deficit
 
 The best remedy to reduce shock is to ask for feedback regularly and pre-emptively. Good leaders know to do this. Great leaders make special effort to do this well no matter how busy they are. For example, in Bhutan, the King regularly visits far flung places in the Kingdom to stay [in touch](https://www.facebook.com/adrian.chan.9699523/posts/10160644586935551) with the people.
 
-![The King listens very well](http://adriansays.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-7.59.37-AM-e1531440377839.png) King of Bhutan listening very intently to an elderly citizen. Photo Credit: King of Bhutan's Facebook page
+![The King listens very well](/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-7.59.37-AM-e1531440377839.png) King of Bhutan listening very intently to an elderly citizen. Photo Credit: King of Bhutan's Facebook page
 
 An analogy for seeking feedback is to regard it as spring cleaning. If one does not clean regularly, dirt builds up over time. Similarly, if one does not seek feedback regularly, we accumulate what I call a "*feedback deficit.*"
 
@@ -56,7 +56,7 @@ Without attending to the ability and opportunity for employees to reflect, any s
 
 Conversely, when individuals do not practice self-reflection, they will receive even the most well-intentioned and meaningful input very poorly. The poor and often explosive reaction to any input creates a backlash against any future feedback to be given. As a result, a vicious cycle emerges. Eventually, this creates a toxic environment which becomes hard to eradicate.
 
-![Vicious Cycle of Poor Feedback Culture](http://adriansays.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-12-at-4.32.40-PM.png) Vicious Cycle of a Poor Workplace Feedback Culture
+![Vicious Cycle of Poor Feedback Culture](/wp-content/uploads/2018/07/Screen-Shot-2018-07-12-at-4.32.40-PM.png) Vicious Cycle of a Poor Workplace Feedback Culture
 
 ## Compose Your Observations
 
@@ -84,13 +84,13 @@ Not only should leaders practice the art of feedback diligently, they also need 
 
 To date, the unit has compiled 7 volumes of such reflections. Even though they were not able to implement every suggestion raised, they remain engaged and energised by the weekly ritual. The value of a community in practice is the hope they stoke in each other. Where there is hope, good people will want to stay long enough to make a difference.
 
-![Weekly Feedback Forum](http://adriansays.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-12.04.52-AM.png) Members of the Customer Service Unit at Bhutan Telecoms participating in the weekly Feedback Forum
+![Weekly Feedback Forum](/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-12.04.52-AM.png) Members of the Customer Service Unit at Bhutan Telecoms participating in the weekly Feedback Forum
 
 ## Exchange Seats and Shoes, Surrender Thrones for Towels
 
 While in Bhutan, I noticed the high power distance and the insulation senior leaders face. They rarely get the true picture of the realities on the ground, even when they sincerely want to know. Hence, in a course I designed for these leaders, I had them report to their own organisations as a frontline or backroom junior staff. For example, a senior military officer reported to his camp as a newly assigned sentry. The kingdom's Chief Tourism Officer went back to work as an administrative assistant. Another senior scientist worked as a farm labourer in one of the research centres.
 
-![Feedback on Performance as a farm labourer](http://adriansays.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-12.11.23-AM.png) A Senior Public Servant working as a farm labourer for a day
+![Feedback on Performance as a farm labourer](/wp-content/uploads/2018/07/Screen-Shot-2018-07-13-at-12.11.23-AM.png) A Senior Public Servant working as a farm labourer for a day
 
 Some of the participants could not remain incognito. Instead, they asked their new colleagues to disregard their rank and treat them as they would their fellow labourer. Intrigued by this newfound humility, many of their new colleagues took pains to orientate them to the tasks at hand. Some even shared their lunch boxes with the leaders-turned-co-labourers. Through this experience, the leaders realised firsthand the types of workplace improvement needed on the ground. They also experienced what it was like to receive direct input from others on their performance.
 

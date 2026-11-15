@@ -1,13 +1,11 @@
 ---
 title: "Services"
-permalink: /services/
+permalink: false
 layout: page.njk
 hideTitle: true
 ---
 
-How I work
-
-# Services
+## How Adrian works
 
 Every engagement is tailored. Adrian works as an embedded adviser — not a vendor delivering a programme and leaving. The work is done alongside you, over time, until it takes root.
 

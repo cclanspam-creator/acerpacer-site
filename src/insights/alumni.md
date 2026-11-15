@@ -5,7 +5,7 @@ topics: ["Change", "Leadership"]
 origin: "First published on adriansays.com"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2019/03/53145692_2291616087567555_208441626232619008_n-1.jpg)
+![](/wp-content/uploads/2019/03/53145692_2291616087567555_208441626232619008_n-1.jpg)
 
 3-4 Mar 2019: YPLP Alumni Refresher Course
 

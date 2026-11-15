@@ -19,6 +19,10 @@
       "url": "/clients/"
     },
     {
+      "label": "Where to start",
+      "url": "/start/"
+    },
+    {
       "label": "Insights",
       "url": "/insights/"
     },

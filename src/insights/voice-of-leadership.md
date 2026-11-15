@@ -5,7 +5,7 @@ topics: ["Leadership"]
 origin: "First published on adriansays.com"
 ---
 
-![Five Voice of Leadership](https://adriansays.com/wp-content/uploads/2022/06/Screenshot-2022-06-24-at-12.45.29-AM-1024x256.png)
+![Five Voice of Leadership](/wp-content/uploads/2022/06/Screenshot-2022-06-24-at-12.45.29-AM-1024x256.png)
 
 The Voice of Leadership: Courtesy of https://5voices.com
 

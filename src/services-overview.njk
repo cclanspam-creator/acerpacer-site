@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: Services
+permalink: /services/
+---
+<section class="wrap" style="max-width:66rem">
+  <p class="eyebrow">Services</p>
+  <h1>Three ways to engage</h1>
+  <p class="lede">Every engagement is tailored. Most begin in one of three places.</p>
+    <div class="tiers">
+      <div class="tier"><p class="step">ACTIVATE</p><h3>Diagnose</h3><p>Get a clear picture of your leaders, teams and culture before deciding what to invest in.</p><ul><li>360 feedback and psychometric assessment</li><li>Behavioural and culture diagnostics</li></ul></div>
+      <div class="tier"><p class="step">ACCELERATE</p><h3>Develop</h3><p>Build capability in the people who need it, through learning designed around your context.</p><ul><li>Leadership programmes</li><li>Behavioural insights workshops</li><li>Executive coaching</li><li>Retreats</li></ul></div>
+      <div class="tier"><p class="step">EMBED</p><h3>Sustain</h3><p>Work alongside your organisation over time so that new practices take root.</p><ul><li>OD consulting</li><li>Long-term leadership advisory</li></ul></div>
+    </div>
+  <div class="actions"><a class="btn" href="/start/">Find where to start</a></div>
+</section>
+<article class="wrap prose page" style="margin-top:3rem">
+{% for p in collections.all %}{% if p.inputPath == "./src/pages/services.md" %}{{ p.templateContent | safe }}{% endif %}{% endfor %}
+</article>

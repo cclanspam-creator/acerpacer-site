@@ -5,7 +5,7 @@ topics: ["Change", "Sandbox"]
 origin: "First published on adriansays.com"
 ---
 
-![Change through Sandboxing](https://adriansays.com/wp-content/uploads/2019/06/sand-932712_640-1.jpg)
+![Change through Sandboxing](/wp-content/uploads/2019/06/sand-932712_640-1.jpg)
 
 ## **Change for Large Organizations is Painful**
 
@@ -21,7 +21,7 @@ The only way to change a large organization is to reframe the organization as a 
 
 How does one know the right way to splice an organization into the relevant sandboxes? This question alone determines the quality of leadership, for if leaders are to shepherd their flock, they must know their sheep intimately. If leaders do not recognize the correct sandboxes to configure, then we have a more basic problem to address – that of leadership. In which case, organizational change can wait until personal change has delivered the goods.
 
-![Change through Sandboxing](https://adriansays.com/wp-content/uploads/2019/06/4Cs-of-Change-through-Sandboxing-3771371928-1559958669843.jpg)
+![Change through Sandboxing](/wp-content/uploads/2019/06/4Cs-of-Change-through-Sandboxing-3771371928-1559958669843.jpg)
 
 4Cs of Change through Sandboxing
 

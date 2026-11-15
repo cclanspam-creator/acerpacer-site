@@ -1,0 +1,71 @@
+---
+layout: base.njk
+title: Find where to start
+permalink: /start/
+description: Three short questions to point you to the right starting place with Acerpacer Consulting.
+---
+<section class="wrap triage">
+  <p class="eyebrow">Find where to start</p>
+  <h1>Three questions to point you in the right direction</h1>
+  <p class="lede">This takes about a minute. It suggests a starting place for a conversation. It is a guide, and it does not assess you or your organisation.</p>
+  <form id="triage">
+    <fieldset>
+      <legend>1. Who is this for?</legend>
+      <label><input type="radio" name="who" value="individual" required>One leader, or a few individuals</label>
+      <label><input type="radio" name="who" value="team">A team or a cohort of leaders</label>
+      <label><input type="radio" name="who" value="organisation">The whole organisation or a large division</label>
+    </fieldset>
+    <fieldset>
+      <legend>2. Which statement is closest to your situation?</legend>
+      <label><input type="radio" name="need" value="activate" required>We want a clearer picture before we decide what to do</label>
+      <label><input type="radio" name="need" value="accelerate">We know what we need and want to build the capability</label>
+      <label><input type="radio" name="need" value="embed">We have started, and need the change to last</label>
+    </fieldset>
+    <fieldset>
+      <legend>3. What is your time frame?</legend>
+      <label><input type="radio" name="when" value="within three months" required>Within the next three months</label>
+      <label><input type="radio" name="when" value="within the year">Some time this year</label>
+      <label><input type="radio" name="when" value="a longer partnership">We are looking for a longer partnership</label>
+    </fieldset>
+    <button class="btn" type="submit">Show my starting place</button>
+  </form>
+  <div class="result" id="result" hidden tabindex="-1">
+    <p class="eyebrow" id="r-tier"></p>
+    <h2 id="r-title"></h2>
+    <p id="r-body"></p>
+    <ul id="r-list"></ul>
+    <p id="r-time" class="note"></p>
+    <div class="actions"><a class="btn" id="r-mail" href="mailto:{{ site.email }}">Email Adrian with these answers</a><a class="btn ghost" href="/services/">Read about the services</a></div>
+    <p class="note">Your answers stay in your browser. Nothing is sent unless you choose to email.</p>
+  </div>
+</section>
+<script>
+(function () {
+  var email = "{{ site.email }}";
+  var tiers = {
+    activate: { tier: "ACTIVATE", title: "Start with a diagnosis", body: "You would benefit from a clear picture first, so that any investment that follows is aimed at the right need." },
+    accelerate: { tier: "ACCELERATE", title: "Start with development", body: "You know the need. The next step is learning designed around your context and the people involved." },
+    embed: { tier: "EMBED", title: "Start with a longer partnership", body: "The work now is making change last, which usually means working alongside your organisation over time." }
+  };
+  var services = {
+    activate: { individual: ["360 feedback for the leader", "Psychometric assessment with a debrief"], team: ["360 feedback across the cohort", "Team diagnostics"], organisation: ["Behavioural and culture diagnostics", "Customised 360 tools"] },
+    accelerate: { individual: ["Executive coaching"], team: ["Leadership programmes", "Behavioural insights workshops", "Retreats"], organisation: ["Leadership programmes across levels", "Behavioural insights workshops"] },
+    embed: { individual: ["Long-term leadership advisory"], team: ["OD consulting", "Long-term leadership advisory"], organisation: ["OD consulting", "Long-term leadership advisory"] }
+  };
+  var whoText = { individual: "one leader or a few individuals", team: "a team or cohort of leaders", organisation: "the whole organisation or a large division" };
+  document.getElementById("triage").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var f = new FormData(e.target), who = f.get("who"), need = f.get("need"), when = f.get("when");
+    var t = tiers[need], list = services[need][who];
+    document.getElementById("r-tier").textContent = t.tier;
+    document.getElementById("r-title").textContent = t.title;
+    document.getElementById("r-body").textContent = t.body;
+    var ul = document.getElementById("r-list"); ul.innerHTML = "";
+    list.forEach(function (s) { var li = document.createElement("li"); li.textContent = s; ul.appendChild(li); });
+    document.getElementById("r-time").textContent = "Time frame you chose: " + when + ".";
+    var body = "Hello Adrian,\n\nI used the starting-place guide on acerpacer.com.\n\nThis is for: " + whoText[who] + "\nSuggested starting place: " + t.tier + " (" + list.join(", ") + ")\nTime frame: " + when + "\n\nMy organisation and role:\n\nWhat I would like to discuss:\n";
+    document.getElementById("r-mail").href = "mailto:" + email + "?subject=" + encodeURIComponent("Starting a conversation: " + t.tier) + "&body=" + encodeURIComponent(body);
+    var r = document.getElementById("result"); r.hidden = false; r.focus(); r.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+})();
+</script>

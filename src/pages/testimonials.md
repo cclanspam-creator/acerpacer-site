@@ -6,7 +6,7 @@ layout: page.njk
 
 ------------------------------------------------------------------------
 
-![](http://acerpacer.com/wp-content/uploads/2019/04/diego-ph-254975-unsplash-819x1024.jpg)
+![](/wp-content/uploads/2019/04/diego-ph-254975-unsplash-819x1024.jpg)
 
 You have an exceptional skill to facilitate and I enjoyed it so much.
 
@@ -20,7 +20,7 @@ You have an exceptional skill to facilitate and I enjoyed it so much.
 
 ------------------------------------------------------------------------
 
-![](http://acerpacer.com/wp-content/uploads/2019/04/teddy-kelley-71910-unsplash-2-1024x718.jpg)
+![](/wp-content/uploads/2019/04/teddy-kelley-71910-unsplash-2-1024x718.jpg)
 
 I have discovered the new me by talking one-on one with you. Through the courses that you have taught us, I am motivated to work like you, who not only teaches subject matter concisely but have blended very well with the culture and tradition of Bhutan.
 
@@ -50,6 +50,6 @@ I have discovered the new me by talking one-on one with you. Through the courses
 
 ------------------------------------------------------------------------
 
-- ![](http://acerpacer.com/wp-content/uploads/2019/04/hello-i-m-nik-281498-unsplash.jpg)
+- ![](/wp-content/uploads/2019/04/hello-i-m-nik-281498-unsplash.jpg)
 
 ------------------------------------------------------------------------

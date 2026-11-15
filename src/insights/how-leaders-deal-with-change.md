@@ -5,7 +5,7 @@ topics: ["Change", "Leadership"]
 origin: "First published on adriansays.com"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2023/09/Screenshot-2023-09-26-at-9.02.51-PM-1024x372.png)
+![](/wp-content/uploads/2023/09/Screenshot-2023-09-26-at-9.02.51-PM-1024x372.png)
 
 Where change is concerned, leaders play many roles. One important role is that of noticing shifts in the landscape and deciding how to respond to these shifts. It is easier said than done.
 

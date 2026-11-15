@@ -5,7 +5,7 @@ topics: ["Interpersonal Space", "Leadership"]
 origin: "First published on adriansays.com"
 ---
 
-![The place for intimate interpersonal space](https://adriansays.com/wp-content/uploads/2020/03/annie-spratt-n3T1gBYgkJo-unsplash-tiny.png)
+![The place for intimate interpersonal space](/wp-content/uploads/2020/03/annie-spratt-n3T1gBYgkJo-unsplash-tiny.png)
 
 *"The most intimate of interpersonal spaces is found in bed. But the biggest interpersonal distance can also be found on the same bed.” *
 

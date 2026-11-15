@@ -54,3 +54,20 @@ main{padding:3rem 0 4rem}
 .card h3{margin:0 0 .5rem}
 .card p{margin:0 0 .75rem}
 .quote{font-family:var(--head);font-size:1.3rem;font-weight:500;color:var(--head-ink);max-width:48rem;margin:0}
+
+.brand img{display:block;height:48px;width:auto;border-radius:0}
+.tiers{display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.25rem;margin-top:1.5rem}
+.tier{background:#fff;border:1px solid var(--line);border-radius:6px;padding:1.5rem}
+.tier .step{font-family:var(--head);font-weight:700;letter-spacing:.08em;font-size:.8rem;color:var(--muted);margin:0}
+.tier h3{margin:.25rem 0 .5rem;font-size:1.35rem}
+.tier ul{padding-left:1.1rem;margin:.75rem 0 0}
+.triage{max-width:42rem}
+.triage fieldset{border:1px solid var(--line);border-radius:6px;padding:1.25rem 1.5rem;margin:0 0 1.25rem}
+.triage legend{font-family:var(--head);font-weight:600;color:var(--head-ink);padding:0 .5rem}
+.triage label{display:block;padding:.45rem 0;cursor:pointer}
+.triage input{margin-right:.6rem;accent-color:var(--teal)}
+.triage button{border:0;cursor:pointer;font:inherit}
+.result{border:1px solid var(--line);border-left:4px solid var(--navy);border-radius:6px;padding:1.5rem;margin-top:2rem;background:var(--card)}
+.result h2{margin-top:0}
+.result[hidden]{display:none}
+.note{font-size:.9rem;color:var(--muted)}

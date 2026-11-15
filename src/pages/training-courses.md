@@ -18,12 +18,12 @@ This workshop helps participants embark on their journeys to be mentors in their
 
 Who should sign up? Anyone who aspires to mentor others at the workplace
 
-![](https://acerpacer.com/wp-content/uploads/2024/11/0.5dayWS-2-1024x938.png)
+![](/wp-content/uploads/2024/11/0.5dayWS-2-1024x938.png)
 
 ## 2-Day Training Impact Analysis Course
 
 ------------------------------------------------------------------------
 
-![](https://acerpacer.com/wp-content/uploads/2024/11/updatedday2.1-3.png)
+![](/wp-content/uploads/2024/11/updatedday2.1-3.png)
 
-![](https://acerpacer.com/wp-content/uploads/2024/11/day2.2.png)
+![](/wp-content/uploads/2024/11/day2.2.png)

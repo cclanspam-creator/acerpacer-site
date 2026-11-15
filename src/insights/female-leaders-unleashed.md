@@ -5,7 +5,7 @@ topics: ["Leadership"]
 origin: "First published on adriansays.com"
 ---
 
-![female leaders](http://adriansays.com/wp-content/uploads/2018/06/IMG_20180515_141007-1-1024x465.jpg) Participants of a Foundational Leadership Programme at RIGSS: The only time when female leaders are on par in numbers as male leaders
+![female leaders](/wp-content/uploads/2018/06/IMG_20180515_141007-1-1024x465.jpg) Participants of a Foundational Leadership Programme at RIGSS: The only time when female leaders are on par in numbers as male leaders
 
 # Bhutan is Low on Female Leaders
 
@@ -15,7 +15,7 @@ How can Bhutan unleash the potential of more female leaders? At the moment, fema
 
 Female participation in RIGSS’s courses tapers off at some point during the mid-career. At the foundational level, female participation is almost equal. At the mid-career level, female participation experiences a sharp drop to around 20%. Thereafter, it stays that way for the next higher level course at the P1/P2 level. At the executive level, female participants are the exception rather than the norm.
 
-![Female Leaders in RIGSS courses](http://adriansays.com/wp-content/uploads/2018/06/Gender-distribution.png)
+![Female Leaders in RIGSS courses](/wp-content/uploads/2018/06/Gender-distribution.png)
 
 ##
 

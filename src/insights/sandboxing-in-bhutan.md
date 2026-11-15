@@ -5,7 +5,7 @@ topics: ["Sandbox"]
 origin: "First published on adriansays.com"
 ---
 
-![](https://adriansays.com/wp-content/uploads/2018/11/BuildaSandbox-hero.jpg) Sandboxing in Bhutan
+![](/wp-content/uploads/2018/11/BuildaSandbox-hero.jpg) Sandboxing in Bhutan
 
 # **Sandboxing: How has Bhutan done it?**
 
@@ -49,7 +49,7 @@ For more information about the Royal Academy, please refer to this [site](http:/
 - Confluence of Policy, Mindset and Behaviours. There is unity of policy intent, mindset and behaviours around notions of national service. Over the training period, trainees come to understand and be equipped for national service. Post training, trainees are organised to serve the nation in various ways.
 - Common suffering. By being allowed to suffer together, participants quickly bond and learn to perform for each other and for the greater good.
 
-![](https://adriansays.com/wp-content/uploads/2018/11/12620370_10153222806706604_739065462_o-1024x768.jpg) Author with teacher De Sups who helped out with the selection of Royal Academy students
+![](/wp-content/uploads/2018/11/12620370_10153222806706604_739065462_o-1024x768.jpg) Author with teacher De Sups who helped out with the selection of Royal Academy students
 
 ## Project 3: The Royal Institute of Governance and Strategic Studies (RIGSS)
 
@@ -68,4 +68,4 @@ For more information about the Royal Academy, please refer to this [site](http:/
 - A safe space in the form of a residential program is created for participants to discard their partisan/sectorial personas in favour of a kingdom mindset.
 - Participants learn to experiment with new ways of thinking and relating to each other as collaborators, not competitors.
 
-![](https://adriansays.com/wp-content/uploads/2018/11/IMAG1132-1024x579.jpg) Author with a batch of RIGSS participants
+![](/wp-content/uploads/2018/11/IMAG1132-1024x579.jpg) Author with a batch of RIGSS participants
