@@ -1,0 +1,61 @@
+---
+layout: base.njk
+title: Home
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Acerpacer Consulting · Singapore</p>
+    <h1>Leaders grow when someone helps them reflect, decide, and act differently.</h1>
+    <p>Adrian Chan is an organisational psychologist and leadership development consultant. He works with executives, teams, and institutions in Singapore and internationally, embedding as a trusted adviser to develop leaders from the inside out.</p>
+    <div class="actions">
+      <a class="btn" href="/contact/">Schedule a discovery call</a>
+      <a class="btn ghost" href="/services/">See how I work</a>
+    </div>
+  </div>
+</section>
+<section class="band">
+  <div class="wrap">
+    <p class="eyebrow">Trusted by</p>
+    <ul class="clients">
+      <li>King’s Office, Bhutan</li><li>Civil Service College</li><li>Sport Singapore</li><li>Health Promotion Board</li><li>Family Justice Court</li><li>ST Engineering</li><li>OCBC</li><li>LTA</li><li>MOE</li>
+    </ul>
+  </div>
+</section>
+<section class="band alt">
+  <div class="wrap">
+    <p class="eyebrow">Flagship engagement</p>
+    <h2>Leadership Resource Person, King’s Office, Kingdom of Bhutan</h2>
+    <p>From 2013 to 2018, Adrian was the Leadership Resource Person in the King's Office in the Kingdom of Bhutan, where he also served as the resident faculty at RIGSS, the national leadership institute inaugurated by HM The King, building Bhutan’s senior talent pipeline.</p>
+    <p><a href="/clients/">Clients and impact &rarr;</a></p>
+  </div>
+</section>
+<section class="band">
+  <div class="wrap">
+    <p class="eyebrow">Services</p>
+    <h2>How Adrian works with clients</h2>
+    <div class="cards">
+      <div class="card"><h3>Executive coaching</h3><p>One-on-one development grounded in reflection science and adult learning.</p></div>
+      <div class="card"><h3>Leadership development</h3><p>Programmes that build leaders who think well, decide well, and act with integrity.</p></div>
+      <div class="card"><h3>OD consulting</h3><p>In-house partnership to improve how organisations learn, change, and perform.</p></div>
+    </div>
+    <p><a href="/services/">All services &rarr;</a></p>
+  </div>
+</section>
+<section class="band alt">
+  <div class="wrap">
+    <p class="quote">“Regardless of whether my coachee is a minister or a member of royalty, or a young adult starting out in their career, I treat each session as if it is the last one I will have with the person.”</p>
+    <p class="small">Adrian Chan, Founder</p>
+  </div>
+</section>
+<section class="band">
+  <div class="wrap">
+    <p class="eyebrow">Insights</p>
+    <h2>Recent research pieces and practice notes</h2>
+    <div class="cards">
+      {%- for post in collections.articles | limit(3) %}
+      <div class="card"><h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3><p class="small">{{ post.date | readable }}</p><p>{{ post.templateContent | excerpt }}</p></div>
+      {%- endfor %}
+    </div>
+    <p><a href="/insights/">All insights &rarr;</a></p>
+  </div>
+</section>

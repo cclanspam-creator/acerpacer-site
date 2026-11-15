@@ -1,0 +1,72 @@
+---
+title: "Unleash the Potential of Female Leaders"
+date: 2018-06-30
+topics: ["Leadership"]
+origin: "First published on adriansays.com"
+---
+
+![female leaders](http://adriansays.com/wp-content/uploads/2018/06/IMG_20180515_141007-1-1024x465.jpg) Participants of a Foundational Leadership Programme at RIGSS: The only time when female leaders are on par in numbers as male leaders
+
+# Bhutan is Low on Female Leaders
+
+How can Bhutan unleash the potential of more female leaders? At the moment, female leaders are under-represented in the country. In my 5 years as the Leadership Faculty in the Royal Institute of Governance and Strategic Studies (RIGSS), I have encountered nearly 900 leaders in training. Of these, less than 1 in 5 are women leaders. RIGSS does not set any quota on gender, because entry to a RIGSS course is based on merit. However, it does not bode well for Bhutan that a premier national leadership institute would witness such a skewed distribution of gender participation in its milestone courses. For a small nation, every talent is particularly precious. It will be a huge waste to continue allowing such a steep discount in terms of talent development.
+
+# When Do Females Drop Off Participating in RIGSS Courses?
+
+Female participation in RIGSS’s courses tapers off at some point during the mid-career. At the foundational level, female participation is almost equal. At the mid-career level, female participation experiences a sharp drop to around 20%. Thereafter, it stays that way for the next higher level course at the P1/P2 level. At the executive level, female participants are the exception rather than the norm.
+
+![Female Leaders in RIGSS courses](http://adriansays.com/wp-content/uploads/2018/06/Gender-distribution.png)
+
+##
+
+## Why Is This So?
+
+What can one infer from this trend? Perhaps when females in Bhutan start to marry and have families, the onus is on them to choose between family or career. If they do not have good spousal support, they may find it hard to balance the needs of raising families and pursuing their careers. This is in addition to many other roles that women traditionally play in Bhutan. It is this crucial cross-road that coincides with the time they are eligible for RIGSS’s mid-level courses. Anecdotal feedback seems to bear this out. When I ask participants why their female friends are not going through the selection process for mid level courses, a common response is that they find it hard to be away from their families. Being a month-long residential course, it hard to find baby-sitters for their young children.
+
+# What Does This Mean?
+
+Reduced female participation in leadership courses closely correlates with reduced female representation in leadership positions. This can also be observed in RIGSS. For example, in the last course RIGSS ran for parliamentarians in Bhutan, only 5 out of the 50 participants were female. The tapering off of female representation in leadership in Bhutan is also part of a global trend. For example, in a [keynote](https://www.techinasia.com/jack-ma-women) delivered by Jack Ma, the owner of Alibaba, he shared other indicators, such as the preponderance of political leadership to be male. Not surprisingly, it is a distinct exception for his company Alibaba to have nearly equal representation of females in leadership positions. What are the long term implications to this trend of decreased female leadership for Bhutan?
+
+1. **Poorer Workplace**. As fewer females occupy senior leaders positions, organisations miss out on the beneficial impact of diversity provided by this particular demographic. These are powerful benefits that cannot be ignored. Some of them are gender-specific, such as [empathy](https://www.psychologytoday.com/us/blog/behind-online-behavior/201507/men-systemize-women-empathize). Others are gender-neutral benefits due solely to greater diversity being introduced, such as creativity, or better succession options.
+2. **Lesser Political Representation**. At the national level, the female voice in policy and governance can become under-represented or imbalanced. In the most recent National Council election, only 4 of the Upper House parliamentarians are female. With a smaller number of female parliamentarians, their voice will inevitably be reduced. Issues such as ways to enhance greater female representation will not be championed as much.
+3. **Reduced Birthrate**. Over time, capable and ambitious females may think twice about getting married and having kids. This will directly impact Bhutan’s population not only in terms of replacement rates, but also in terms of under-representation in procreation from the more well-educated strata of society.
+
+# What Can We Do?
+
+What can one do to reverse this trend? I wish it was as simplistic as installing a few child care centres and privacy rooms for breast feeding routines in the workplaces, though I dare say it is a start.
+
+## Research Better Implementation Strategies
+
+In 2013, the National Commission for Women and Children (NCWC) commissioned a study on gender policy in Bhutan with support from the World Bank. The study made recommendations for policy intervention in five main areas. However, it stopped short of providing clear strategies for implementation. While the effort was a start, it also acknowledged that more research was needed. Given that the study utilised data from outdated datasets (e.g. the 2007 National Household Survey), it is probably timely to conduct a follow-up. This time, more emphasis can be placed on partnerships to jumpstart the implementation of any recommendations identified.
+
+## RIGSS Alumni to Step Up
+
+In the meantime, what can we do to alleviate the continued gender gap in leadership? I’d like to believe that RIGSS alumni will take the lead in championing the gender imbalance in leadership in Bhutan. Whether male or female, RIGSS alumni can do their part to make the workplace more conducive for productivity. For example, when leaders emphasise a goal-based approach to managing staff, they allow females to adopt flexi-hours or to work from home should they need to do so. RIGSS alumni can also help by correcting outmoded mindsets that contribute to gender-based inequality. For example, some people still view women as emotional, irrational, and impulsive. We need to help people understand that these traits are due to personality rather than gender. Another example I have heard is how some male colleagues do not like to work under female bosses. They say these bosses demonstrate more unreasonable behaviors due to menopause. In fact, there are many underlying reasons for why bosses can come across as unreasonable, including having to manage biased subordinates. In any case, menopause is a natural stage in life which affects not only women, but men as well (the condition is call andropause).
+
+## Address Workplace and Home Behaviors
+
+Every workplace can implement something to address social norms that contribute to gender inequality. Many of these norms expressed in the workplace have their roots in the home. Hence, we must address the former in the workplace with the expectation that the changes are to continue even at home.
+
+### Return Your Own Plates
+
+For example, when participants are on course at RIGSS, they return their own plates after each meal. This may seem like a small thing. However, when the practice was first started, some participants remarked that they don’t even do it at home, much less in the office. At work, they expect their (female) assistants to do it for them. So to have to return their own plates at RIGSS was refreshing. Many participants persist with the habit of returning their own plates long after the course is over. Some institute the same practice in their own workplaces. More importantly, they become reformed even at home, and extend the practice to helping out with other household chores. During a gathering, one of the spouses remarked how greatly her husband had changed after completing his course at RIGSS. She then jokingly lamented that if only RIGSS also taught husbands how to cook, her world will be perfect! (Note: There is hope. One of the modules for young leaders require them to spend a week out with a remote village in teams. During this time, each participant takes turn to cook for the team.)
+
+## Run Your Own Family Differently
+
+In truth, it is both men and women who need to make adjustments to how they run their families. Who should cook and clean? Who should take care of the baby? Traditionally, many cultures ascribe these duties to women. This mindset might have been appropriate in an older world where labour in the workplace meant physical exertion. Hence, it would have made sense then to divide workplace and household duties according to physical requirements. Today, families ought to re-contract amongst themselves how to distribute household duties. Whether son or daughter, husband or wife, to be part of family is to do one’s part in domestic chores, even if the family is well-off enough to afford home help. In fact, especially when one has domestic help, one needs to be careful that the way one treats the helper does not perpetuate the perception that females should stay at home.
+
+# A Word for Young Men
+
+Young men need to step up to share the essential responsibilities of home. Whether in learning to cook or to clean up, this is good training. It liberates their future wives to flourish at work. At the same time, it is also a great attribute to have. It attracts capable young women looking for enlightened partners! As a man, it is tempting to look for someone to cook, sew, clean, and mother us from head to toe. Let me say that we already have such a person, and she is our mother. In her eyes, her child will never grow up. Surely we should choose a woman who can help us be the best version of ourselves in the next stage of our life? To achieve this, we must emerge from the protective cocoon of our immediate family and learn to build one of our own.
+
+# A Word for Young Women
+
+Young women need to train their prospective boyfriends how to partner well. When a man is enamoured with her, he will do anything to win her heart. While she is in this advantageous position, she should not ask for Prado cars or Birkin bags. Instead, she should use this window of opportunity to train her boyfriend well. She should teach him how to behave as a gentleman. Should he pass this stage, she can move on to teach him to partner well at work and at home. He learns best about being a good son-in-law and a future father when he learns from his wife. If a woman fails to train her boyfriend when all the cards are in her favour, how can she hope to train her future children when the chips are more stacked against her? On the other hand, if the boyfriend is not responsive to such training early on, she is better off looking for another person. Either she has chosen too difficult a training assignment, or she has to improve her training skills before embarking on the next stage in life. Either way, she should thank the heavens above that she has made this discovery before the wedding bells toll and definitely before the bun is in the oven!
+
+# The Transfer from Home to the Workplace
+
+When men who learn to share household responsibilities, they start to liberate themselves from outdated gender-based roles. By learning to partner better, he finds his natural helpful place, even in the most biologically based functions such as breast feeding. A dad can and should wake up in the middle of the night to feed the baby with breast milk pumped by his wife/formula if they so choose. There is joy in such participation that should not be missed out. All it takes is one such episode to make one more sensitive to the needs of other female colleagues who are lactating mothers. Hence, any male leader who claims to be egalitarian at work ought to start the practice at home first.
+
+# The Final Word on Unleashing Female Leaders
+
+The best of masculinity in a man is to nurture his sons and daughters to their full potential. Parenting is a form of [stewardship](http://adriansays.com/parenting-as-stewardship/). As a form of deliberate practice, he begins with his wife. Men fail humanity when the potential of women not unleashed. The complementary provided by women is that the best of femininity is not about hiding or flaunting it. It is about allow its natural grace to surface in all that a woman does, including in leadership. As deliberate practice, a woman first learns to be the best version of herself amongst family and friends. Should fortune permit, the next stage is with her future husband. Each step is a natural progression for her to eventually be the female leader of her own household working in partnership with her husband. I look forward to the day when we choose leaders based on merit without the need for quotas on gender. It will be a day when we follow and groom leaders based on potential, unbiased by our own parochial mindsets. I hope one day, this blog post will become a quaint collection for the future anthropologist of a time in our humanity where we were still learning to come to terms with our own gender.

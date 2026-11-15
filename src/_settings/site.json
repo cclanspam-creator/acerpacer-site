@@ -1,0 +1,31 @@
+{
+  "name": "Acerpacer Consulting",
+  "owner": "Acerpacer Consulting Pte Ltd",
+  "url": "https://acerpacer.com",
+  "description": "Acerpacer Consulting is a Singapore-based leadership development and organisational psychology practice led by Adrian Chan.",
+  "email": "email@acerpacer.com",
+  "fonts": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@500;600;700&display=swap",
+  "nav": [
+    {
+      "label": "About",
+      "url": "/about/"
+    },
+    {
+      "label": "Services",
+      "url": "/services/"
+    },
+    {
+      "label": "Clients & Impact",
+      "url": "/clients/"
+    },
+    {
+      "label": "Insights",
+      "url": "/insights/"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "footer": "Acerpacer Consulting \u00b7 Singapore \u00b7 <a href=\"mailto:email@acerpacer.com\">email@acerpacer.com</a> \u00b7 <a href=\"https://adriansays.com\">adriansays.com</a>"
+}
