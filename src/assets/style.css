@@ -71,3 +71,18 @@ main{padding:3rem 0 4rem}
 .result h2{margin-top:0}
 .result[hidden]{display:none}
 .note{font-size:.9rem;color:var(--muted)}
+
+.prose figure{margin:2rem 0}
+.prose figure img{display:block;width:100%;height:auto}
+.prose figcaption{font-size:.9rem;color:var(--muted);margin-top:.5rem}
+.prose .dek{font-size:1.25rem;line-height:1.5;color:var(--navy);margin-top:0}
+.abcd{grid-template-columns:1fr 1fr}
+.abcd .card{font-size:1rem;line-height:1.6;padding:1.25rem}
+.abcd h3{margin:0;font-size:1.1rem}
+.abcd p{margin:.5rem 0 0}
+.abcd .counters{font-size:.8rem;color:var(--muted);margin-top:.15rem}
+.abcd strong{white-space:nowrap}
+.sources{font-size:.9rem;line-height:1.55;color:var(--muted);border-top:1px solid var(--line);margin-top:3rem}
+.sources h2{font-size:1.15rem}
+.sources li{margin-bottom:.4rem}
+@media (max-width:40rem){.abcd{grid-template-columns:1fr}}
